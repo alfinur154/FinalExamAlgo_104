@@ -96,6 +96,7 @@ int main() {
 
 
 
+
 //2.  stack
 //3.Stack Menyimpan data seperti menumpuk buku disebuah dus, dan caranya di algoritma disebut -> last in first out. / (LIFO) Dan ada 2 operasi ialah:  push dan pop QUEUE adalah first in first out (FIFO) Kok yang pertama di masukkan dan yang masuk terakhir keluar dan urutan  dari yang pertama dan terakhir . 
 //4. pada saat data masih belum di panggil dan setelah di panggil data nya data masuk kepada kolom stak/tabel maka d urutkan pada pas operasinya dengan pengoprasian LIFO
